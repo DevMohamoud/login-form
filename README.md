@@ -1,3 +1,3 @@
 # login-form
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-bdmpch)
+A login form made with HTML & CSS.
